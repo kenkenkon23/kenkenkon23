@@ -11,4 +11,4 @@ git clone https://github.com/ruymon/bhaskalc
 ```
 
 ### Next Level Week 3
-Você pode encontrar meu repositório da [Next Level Week aqui](https://github.com/kenkenkon/nlw) <br>
+Você pode encontrar meu repositório da [Next Level Week aqui](https://github.com/kenkenkon23/nlw) <br>
